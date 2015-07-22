@@ -1,0 +1,2 @@
+// Pacote words
+package words
