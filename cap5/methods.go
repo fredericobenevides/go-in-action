@@ -31,7 +31,7 @@ func main() {
 	lisa.notify()
 
 	// Values of type user can be used to call methods
-	// delcared with a pointer receiver
+	// declared with a pointer receiver
 	bill.changeEmail("bill@newdomain.com")
 	bill.notify()
 
