@@ -10,7 +10,7 @@ import (
 func main() {
 	u := entities.User{
 		Name:  "Bill",
-		email: "bill@email.com",
+		email: "bill@email.com", //email minúsculo não é exportado
 	}
 
 	fmt.Printf("User: %v\n")
